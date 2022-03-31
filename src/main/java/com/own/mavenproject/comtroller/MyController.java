@@ -10,6 +10,6 @@ public class MyController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Poll SCM Job running!!";
+        return "Poll SCM Job running updated!!";
     }
 }
